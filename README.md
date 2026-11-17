@@ -23,7 +23,7 @@ This repository only hosts the installers. The source code is private.
 <p align="center"><img src="screenshots/home-pink.webp" width="860" alt="Pastel pink theme"></p>
 
 ### Install
-- **macOS (Apple Silicon):** download the `.dmg`, open it and drag Clutch to Applications. It isn't signed yet: the first time, right-click the app → **Open**.
+- **macOS (Apple Silicon):** download the `.dmg`, open it and drag Clutch to Applications. It isn't signed yet: the first time, if macOS says Apple cannot check it, go to System Settings → Privacy & Security → **Open Anyway** (or right-click the app → **Open**).
 - **Windows:** download `…x64-setup.exe`. If Windows warns about an unknown publisher: **More info → Run anyway**.
 - **iPhone:** use the web app in Safari → **Share → Add to Home Screen**.
 
